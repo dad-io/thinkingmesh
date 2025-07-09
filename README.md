@@ -1,4 +1,4 @@
-# [thought experiement] ThinkingMesh: Symbolic Memory Architecture and Distributed Semantic Mesh Protocol  
+# [thought experiment] ThinkingMesh: Symbolic Memory Architecture and Distributed Semantic Mesh Protocol  
 ### Enabling Agentic AI Systems via Universal Attribute Modeling over Zenoh
 
 ---
