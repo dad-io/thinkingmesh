@@ -1,4 +1,4 @@
-# 🧠 ThinkingMesh: Symbolic Memory Architecture and Distributed Semantic Mesh Protocol  
+# [thought experiment] ThinkingMesh: Symbolic Memory Architecture and Distributed Semantic Mesh Protocol  
 ### Enabling Agentic AI Systems via Universal Attribute Modeling over Zenoh
 
 ---
@@ -135,30 +135,4 @@ await agent.publish_observation(observation)
 - Symbolic AI, production systems (SOAR, NARS)
 - Knowledge representation (S-expressions, term rewriting)
 - Zenoh, DDS, and edge-focused pub/sub routing protocols
-
----
-
-## 🧪 Academic Directions
-
-- Formalization of ATTR algebra and unification operators
-- Graph-theoretic analysis of schema emergence
-- LLM grounding and symbolic-to-natural translation
-- Reasoning over lossy or symbolic compressions
-- Emergence of invariant structures across agents
-
----
-
-## 📖 License
-
-This work is released under **CC-BY 4.0** / **Public Domain Dedication** as specified in the defensive disclosure. Implementation code is available under **MIT License**.
-
----
-
-## 📎 Contact
-
-**Samuel Elsner**  
-sam.elsner@gmail.com  
-GitHub: @dad-io
-
-This is an open research platform — contributions and forks welcome.
 
